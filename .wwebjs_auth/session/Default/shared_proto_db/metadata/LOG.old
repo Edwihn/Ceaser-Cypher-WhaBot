@@ -1,3 +1,2 @@
-2026/03/04-12:56:27.118 4f00 Reusing MANIFEST C:\CUATRI 7\Seguridad Informatica\WhaBot Upgrade\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
-2026/03/04-12:56:27.118 4f00 Recovering log #3
-2026/03/04-12:56:27.119 4f00 Reusing old log C:\CUATRI 7\Seguridad Informatica\WhaBot Upgrade\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 
+2026/03/08-22:04:51.965 417c Creating DB D:\CUATRI 7\Administracion del tiempo\WhaBot Upgrade\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
+2026/03/08-22:04:51.974 417c Reusing MANIFEST D:\CUATRI 7\Administracion del tiempo\WhaBot Upgrade\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
